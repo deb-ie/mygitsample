@@ -8,5 +8,4 @@ Team Members:
 ###  * **Sambert Steven Sabacan**
       -BS Electronics Engineering 
 ###  * **Debbie Mae Patuasic**
-      -BS Mechatronics Engineering 
-theme: tactile 
+      -BS Mechatronics Engineering  
