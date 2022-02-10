@@ -3,4 +3,4 @@
 
 > The team members
 
-*  ****Brenn 
+*  **** Brenn 
