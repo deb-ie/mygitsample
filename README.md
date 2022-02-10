@@ -4,8 +4,8 @@
 ## We are Team DOMAIN EXPANSION!
 Team Members:
 > * **Brenn Arbell Ramos**
-> BS Computer Engineering
+  > BS Computer Engineering
 > * **Sambert Steven Sabacan**
-> BS Electronics Engineering 
+  > BS Electronics Engineering 
 > * **Debbie Mae Patuasic**
-> BS Mechatronics Engineering 
+  > BS Mechatronics Engineering 
