@@ -1,6 +1,6 @@
 # WELCOME!
-![LOGO](C:\Users\dpatuasic\Downloads/images/DomainExpansion-Logo.png)
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+![LOGO](Downloads/images/DomainExpansion-Logo.png)
+
 ## We are Team DOMAIN EXPANSION!
 Team Members:
 ###   **Brenn Arbell Ramos**
