@@ -7,7 +7,7 @@ Team Members:
       - BS Computer Engineering
 ###  :construction_worker: **Sambert Steven Sabacan**
       - BS Electronics Engineering 
-###  :construction_worker: **Debbie Mae Patuasic**
+###  :construction_worker_woman: **Debbie Mae Patuasic**
       - BS Mechatronics Engineering  
 ### *'When Emotions are high, Intelligence is low.'*
 ### *'Not everything's a lesson. Sometimes you just fail. There's no failure, only feedback.'*
